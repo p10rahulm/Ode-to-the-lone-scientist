@@ -1,4 +1,4 @@
-{% include figure.html image="walk-alone.jpg" position="center" %}
+{% include figure.html image="assets/walk-alone.jpg" position="center" %}
 
 
 ### An Ode to the Lone Scientist
