@@ -1,6 +1,11 @@
 {% include figure.html image="walk-alone.jpg" position="center" %}
 
-## An Ode to the Lone Scientist
+### An Ode to the Lone Scientist
+
+* For the men and women walking on paths unknown
+
+
+
 
 Science at its essence is a human affair with its protagonists and villains, unpredictable stories of struggles and grand victories, endless battles mostly fought in solitude, and people championing causes and fighting on and on. Here concepts and ideas seem to lead a life unto themselves - where ideas of limitless possibilities live alongside intellectual cul-de-sacs. Some ideas live the hyperbole of the sudden rise alongside others which quietly labour like the steady bourgeoisie, some concepts head towards their timely, and sometimes untimely demises, whereas others are created sapling-like, nurtured amidst the giants beside them. Behind the life of each of these concepts is the painstaking and sometimes lifelong effort of the few that we call scientists and together their creation is what we call Science.
 
