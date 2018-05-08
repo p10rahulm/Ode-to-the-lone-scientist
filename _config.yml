@@ -51,27 +51,12 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://p10rahulm.github.io/Ode-to-the-lone-scientist/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
-# google_analytics: ''
-# service_worker: false # Will turn off the service worker if set to false
+repo: "https://github.com/p10rahulm/Ode-to-the-lone-scientist"
+email: "rahul.maddy@gmail.com"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-
-# 8. Site navigation
-navigation_header:
-  Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
   Created by Rahul Madhavan: https://github.com/p10rahulm
