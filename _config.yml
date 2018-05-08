@@ -1,7 +1,7 @@
 remote_theme: "daviddarnes/alembic"
 title: "An Ode to the Lone Scientist"
 description: "For the men and women of Science, walking along paths unknown"
-logo: "walk-alone.jpg"
+#logo: "walk-alone.jpg"
 
 
 # Site configuration
@@ -46,12 +46,12 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/walk-alone.jpg" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-logo: "walk-alone.jpg" # Site logo, also used in jekyll-seo-tag
+#logo: "walk-alone.jpg" # Site logo, also used in jekyll-seo-tag
 url: "https://p10rahulm.github.io/Ode-to-the-lone-scientist/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/p10rahulm/Ode-to-the-lone-scientist"
