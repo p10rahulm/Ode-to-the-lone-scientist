@@ -1,6 +1,8 @@
 {% include figure.html image="walk-alone.jpg" position="center" %}
 
+
 ### An Ode to the Lone Scientist
+
 
 * For the men and women walking on paths unknown
 
