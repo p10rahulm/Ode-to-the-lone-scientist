@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: An Ode to the Lone Scientist
 description: For the men and women of Science, walking along paths unknown
+github:
+  is_project_page: false
