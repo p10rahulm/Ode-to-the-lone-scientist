@@ -51,7 +51,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "walk-alone.jpg" # Site logo, also used in jekyll-seo-tag
 url: "https://p10rahulm.github.io/Ode-to-the-lone-scientist/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/p10rahulm/Ode-to-the-lone-scientist"
