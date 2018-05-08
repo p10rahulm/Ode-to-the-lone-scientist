@@ -2,7 +2,6 @@ remote_theme: daviddarnes/alembic
 title: "An Ode to the Lone Scientist"
 baseurl: "https://p10rahulm.github.io/Ode-to-the-lone-scientist/"
 repo: "https://github.com/p10rahulm/Ode-to-the-lone-scientist"
-email: "rahul.maddy@gmail.com"
 description: "For the men and women of Science, walking along paths unknown"
 github:
   is_project_page: false
