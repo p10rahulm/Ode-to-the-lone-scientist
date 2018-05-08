@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/alembic
+remote_theme: "mmistakes/minimal-mistakes"
 title: "An Ode to the Lone Scientist"
 description: "For the men and women of Science, walking along paths unknown"
 github:
